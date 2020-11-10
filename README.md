@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=mikusaa&show_icons=true" title="mikusaa's github stats" alt="mikusaa's github stats" />
+</a>
 <!--
 **mikusaa/mikusaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
